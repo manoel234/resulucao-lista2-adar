@@ -1,5 +1,5 @@
 ---
-title: "lista_02_manoel"
+title: "Resolução da lista 2 de ADAR"
 author: "Manoel Neto"
 date: "2023-10-23"
 output: html_document
